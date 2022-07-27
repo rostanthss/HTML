@@ -1,0 +1,12 @@
+main{
+    background-color: rgb(255, 255, 255);/*cor de fundo */
+    width: 1000px;/*larguta*/
+    margin: auto;/*centraliza automaticamente*/
+}
+
+h2{
+    text-align: justify;
+}
+h3{
+    text-align: center;
+}
